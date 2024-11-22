@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f9;
+  background-color: #6666c2;
   margin: 0;
   padding: 0;
 }
@@ -11,9 +11,9 @@ body {
   padding: 20px;
 }
 
-/* Form Styles */
+
 form {
-  background-color: #fff;
+  background-color: #da8383;
   padding: 20px;
   margin: 20px auto;
   border-radius: 8px;
@@ -25,17 +25,17 @@ input, textarea {
   width: 100%;
   padding: 10px;
   margin: 10px 0;
-  border: 1px solid #ddd;
+  border: 1px solid #a65b5b;
   border-radius: 4px;
 }
 
 input:focus, textarea:focus {
   outline: none;
-  border-color: #007BFF;
+  border-color: #15d5c2;
 }
 
 button {
-  background-color: #007BFF;
+  background-color: #8fe814;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -50,7 +50,7 @@ button:hover {
 
 /* Destination List Styles */
 .destination-item {
-  background-color: #fff;
+  background-color: #443187;
   padding: 20px;
   margin: 20px 0;
   border-radius: 8px;
